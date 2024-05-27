@@ -14,3 +14,15 @@
 
 * [Теоретические сведения](lab-03/lab-03-theory.md)
 * [Задание на лабораторную работу](lab-03/lab-03-task.md)
+
+## Лабораторная работа № 4
+
+* [Теоретические сведения и Задание на лабораторную работу](laboratornaya-rabota-4/teoreticheskie-svedeniya-i-zadanie-na-laboratornuyu-rabotu.md)
+
+## Лабораторная работа № 5
+
+* [Теоретические сведения и Задание на лабораторную работу](laboratornaya-rabota-5/teoreticheskie-svedeniya-i-zadanie-na-laboratornuyu-rabotu.md)
+
+## Лабораторная работа № 6
+
+* [Теоретические сведения и Задание на лабораторную работу](laboratornaya-rabota-6/teoreticheskie-svedeniya-i-zadanie-na-laboratornuyu-rabotu.md)
